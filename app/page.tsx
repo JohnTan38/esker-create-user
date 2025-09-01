@@ -83,7 +83,7 @@ const imageSources: { [key: string]: string } = {
   'create_new_user.jpg': '/create_new_user.jpg',
   'lock_user_account.jpg': '/lock_user_account.jpg',
   'reset_user_password.jpg': '/reset_user_password.jpg',
-  'sample_page_layout.jpg': '/schematic_layout.jpg',
+  'schematic_layout.jpg': '/schematic_layout.jpg',
 };
 
 // Main App component
